@@ -42,7 +42,7 @@ By combining modern 3D visualization with ancient herbal knowledge, the project 
 
 ## Benefits & Impact  
 
-### 👩‍🎓 For Students  
+### For Students  
 - Simplifies herbal education with visual and interactive learning.  
 - Bridges the gap between theoretical knowledge and real-world application.  
 
@@ -50,7 +50,7 @@ By combining modern 3D visualization with ancient herbal knowledge, the project 
 - Provides an accessible herbal reference for medicinal purposes.  
 - Supports data-driven awareness and practice in traditional medicine.  
 
-### 🌿 For Wellness Enthusiasts  
+### For Wellness Enthusiasts  
 - Explores the benefits of herbal plants and their natural properties.  
 - Encourages self-learning and adoption of sustainable lifestyles.  
 
