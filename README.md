@@ -6,24 +6,24 @@
 
 ---
 
-## 🧭 Overview  
+## Overview  
 
 The **Virtual Herbal Garden** is an innovative web-based platform that allows users to explore and learn about various **medicinal plants** in an immersive, interactive, and educational way.  
 By combining modern 3D visualization with ancient herbal knowledge, the project aims to **preserve traditional medicine** while making it **accessible to everyone** in a digital format.  
 
 ---
 
-## 💡 Key Features  
+## Key Features  
 
-- 🌱 **Virtual Exploration:** Users can navigate through a digital herbal garden and interact with realistic 3D plant models.  
-- 🔍 **Informative Profiles:** Each plant includes details such as botanical name, cultivation method, and medicinal uses.  
-- 🧭 **User-Friendly Interface:** Designed for smooth navigation, visual appeal, and accessibility.  
-- 📖 **Educational Value:** Encourages learning about herbal medicine in an engaging and modern way.  
-- 💬 **Community Awareness:** Promotes traditional healing knowledge and connects users to natural wellness.  
+- **Virtual Exploration:** Users can navigate through a digital herbal garden and interact with realistic 3D plant models.  
+- **Informative Profiles:** Each plant includes details such as botanical name, cultivation method, and medicinal uses.  
+- **User-Friendly Interface:** Designed for smooth navigation, visual appeal, and accessibility.  
+- **Educational Value:** Encourages learning about herbal medicine in an engaging and modern way.  
+- **Community Awareness:** Promotes traditional healing knowledge and connects users to natural wellness.  
 
 ---
 
-## 🎨 Design & Visualization  
+## Design & Visualization  
 
 - **UI/UX Design:** Prototyped in *Figma* to ensure intuitive user experience and clean aesthetics.  
 - **3D Modeling:** Plants modeled in *Blender/Maya* for realism and accuracy.  
@@ -31,7 +31,7 @@ By combining modern 3D visualization with ancient herbal knowledge, the project 
 
 ---
 
-## 🔍 Feasibility & Viability  
+## Feasibility & Viability  
 
 - **Technical Feasibility:** Built using modern, widely available web technologies for scalability.  
 - **Financial Viability:** Cost-effective solution with potential for educational collaborations and sponsorships.  
@@ -40,13 +40,13 @@ By combining modern 3D visualization with ancient herbal knowledge, the project 
 
 ---
 
-## 🌱 Benefits & Impact  
+## Benefits & Impact  
 
 ### 👩‍🎓 For Students  
 - Simplifies herbal education with visual and interactive learning.  
 - Bridges the gap between theoretical knowledge and real-world application.  
 
-### 🩺 For Practitioners  
+### For Practitioners  
 - Provides an accessible herbal reference for medicinal purposes.  
 - Supports data-driven awareness and practice in traditional medicine.  
 
@@ -56,12 +56,12 @@ By combining modern 3D visualization with ancient herbal knowledge, the project 
 
 ---
 
-## 🚀 Future Scope  
+## Future Scope  
 
-- 🌐 **AR/VR Integration:** Enable immersive learning experiences.  
-- 🤖 **AI Plant Identification:** Recognize plants through image uploads.  
-- 📱 **Mobile App Development:** Bring the garden to smartphones for wider reach.  
-- 🗣️ **Multi-Language Support:** Make the platform accessible to rural and regional audiences.  
+- **AR/VR Integration:** Enable immersive learning experiences.  
+- **AI Plant Identification:** Recognize plants through image uploads.  
+- **Mobile App Development:** Bring the garden to smartphones for wider reach.  
+- **Multi-Language Support:** Make the platform accessible to rural and regional audiences.  
 
 ---
 
