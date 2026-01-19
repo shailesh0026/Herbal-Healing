@@ -65,7 +65,7 @@ By combining modern 3D visualization with ancient herbal knowledge, the project 
 
 ---
 
-## 🏁 Conclusion  
+## Conclusion  
 
 The **Virtual Herbal Garden** is a step toward preserving and promoting India’s rich heritage of herbal medicine.  
 By combining technology with tradition, it provides an **interactive, educational, and sustainable** approach to understanding nature’s healing power.  
